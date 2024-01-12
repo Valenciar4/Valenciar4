@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my github👋
+## Ricardo Valencia Alvarado Profile
+
+#### ⚡3+ years of experience working as a Backend Developer.
+##### I have consistently demonstrated exceptional critical thinking abilities that have played a pivotal role in the accomplishment of numerous projects. My skill set extends to encompass proficiency in implementing Continuous Integration and Continuous Deployment (CI/CD) practices, as well as employing various tools to ensure and maintain the highest quality standards for code.
+#### ⚡4+ years of experience as a Data Project Engineer,
+##### I have excelled in the development of diverse tools to optimize production processes. My role involved the creation of Extract, Transform, Load (ETL) solutions through Python scripting, as well as the successful implementation of classification models. Additionally, I have gained valuable experience in project management and overseeing the implementation of Product Lifecycle Management (PLM) systems.
+### My knowledge: :computer:
+##### 🐍Python, 🐳Docker, ☁️Google Cloud Platform, 🐬Mysql, 🐘Posgresql, Sql Server, Git, ☕Java, 🧪Unit tests
 
 <!--
 **Valenciar4/Valenciar4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
